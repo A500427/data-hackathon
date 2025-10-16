@@ -1,8 +1,9 @@
 requirements.txt
-streamlit
+streamlit==1.50.0
 xarray
 pandas
 numpy
 lightgbm
 pydeck
 matplotlib
+
