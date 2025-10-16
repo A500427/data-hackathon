@@ -1,4 +1,3 @@
-requirements.txt
 streamlit==1.50.0
 xarray
 pandas
